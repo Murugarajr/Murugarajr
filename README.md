@@ -29,6 +29,7 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab&logoColor=white)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
