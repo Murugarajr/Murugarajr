@@ -23,7 +23,7 @@ Raj</a></h1>
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=C%2B%2B)
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net&logo)
 
 - ☁ &nbsp;
