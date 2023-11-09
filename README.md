@@ -3,7 +3,7 @@
 <h3 align="center">A Data Engineer </h3>
 
 <a target="_blank" align="center">
-  <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 250px></picture>
+  <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 300px></picture>
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
