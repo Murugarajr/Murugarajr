@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Raj</a></h1>
 ## <picture><img src = "https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true" width = 50px></picture> About me
+<picture> <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 250px></picture>
+
+<br><br>
 
 <h3 align="center">A Data Engineer </h3>
 
