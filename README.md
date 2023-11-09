@@ -4,8 +4,6 @@ Raj</a></h1>
 <h3 align="center">A Data Engineer </h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-  <img src = "https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true" width = 50px></picture> About me
   <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 250px></picture>
 </a>
 
