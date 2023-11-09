@@ -52,7 +52,7 @@ Raj</a></h1>
   ![Datacamp](https://img.shields.io/badge/Datacamp-333333?style=flat&logo=datacamp)
   ![Udacity](https://img.shields.io/badge/Udacity-grey?-333333?style=flat&logo=udacity)
   ![Udemy](https://img.shields.io/badge/Udemy-333333?style=flat&logo=Udemy)
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-333333?style=flat&logo=Kaggle)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
