@@ -6,17 +6,6 @@ Raj</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🤝 I’m available for freelancing.
-
-- 💬 Ask me about **Data Engineering & Data Analytics and Orchestration**
-
-- 📫 How to reach me **murugarajr@gmail.com**
-
-- 📄 Know about my experiences <a href="https://github.com/Murugarajr) target="blank">Resume</a>"
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
