@@ -27,7 +27,8 @@ Raj</a></h1>
 - ☁ &nbsp;
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=flat&logo=google-cloud)
   ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-333333?style=flat&logo=amazon-aws)
-  ![Microsoft AZURE](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)  
+  ![Microsoft AZURE](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
+  ![Heroku](https://img.shields.io/badge/Heroku-333333?style=flat&logo=heroku)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
