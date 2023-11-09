@@ -39,6 +39,7 @@ Raj</a></h1>
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
+  ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
