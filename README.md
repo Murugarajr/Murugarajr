@@ -24,7 +24,7 @@ Raj</a></h1>
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- ☁ Cloud &nbsp;
+- ☁ &nbsp;
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=flat&logo=google-cloud)
   ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-333333?style=flat&logo=amazon-aws)
   ![Microsoft AZURE](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)  
