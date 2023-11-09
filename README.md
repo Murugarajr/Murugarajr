@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Nice to see you</a></h1>
 
-<h3 align="center">I am Raj, Data Engineer - who specialises in designing, building, and maintaining distributed, high-performance data pipelines. </h3>
+<h3 align="center">I am Raj, a Data Engineer who specialises in designing, building, and maintaining distributed, high-performance data pipelines. </h3>
 
 <a target="_blank" align="center">
   <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 300px></picture>
