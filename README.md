@@ -25,15 +25,9 @@ Raj</a></h1>
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-333333?style=flat&logo=google-cloud)
   ![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-333333?style=flat&logo=amazon-aws)
-  ![Microsoft AZURE](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Microsoft AZURE](https://img.shields.io/badge/Microsoft_Azure-333333?style=flat&logo=microsoft-azure)  
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
