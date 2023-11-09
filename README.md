@@ -60,7 +60,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Murugarajr/">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	 <a href="mailto:murugarajr@gmail.com" target="_blank"><img alt="Gmail" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
+	 <a href="mailto:murugarajr@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
  </div>
 
 </p>
