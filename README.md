@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Raj</a></h1>
-## <picture><img src = "https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true" width = 50px></picture> About me
-<picture> <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 250px></picture>
-
-<br><br>
 
 <h3 align="center">A Data Engineer </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img src = "https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true" width = 50px></picture> About me
+  <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 250px></picture>
 </a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
