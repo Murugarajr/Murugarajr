@@ -50,6 +50,8 @@ Raj</a></h1>
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 📚 &nbsp;
   ![Datacamp](https://img.shields.io/badge/Datacamp-333333?style=flat&logo=datacamp)
+  ![Udacity](https://img.shields.io/badge/Udacity-grey?-333333?style=flat&logo=udacity)
+  ![Udemy](https://img.shields.io/badge/Udemy-333333?style=flat&logo=Udemy)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
