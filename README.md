@@ -53,6 +53,15 @@ Raj</a></h1>
 
 <p align="center">
 
+<br/>
+
+<a href="https://github.com/Murugarajr>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murugarajr&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murugarajr&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/murugarajr/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
