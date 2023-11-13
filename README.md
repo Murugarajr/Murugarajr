@@ -44,11 +44,6 @@
   ![Udemy](https://img.shields.io/badge/Udemy-333333?style=flat&logo=Udemy)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-333333?style=flat&logo=Kaggle)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
