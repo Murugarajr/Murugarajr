@@ -30,7 +30,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
   ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
