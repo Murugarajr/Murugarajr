@@ -31,6 +31,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
   ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/kubernetes-333333?style=flat&logo=kubernetes)
 - 📊 &nbsp;
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
   ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
