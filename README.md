@@ -50,6 +50,7 @@
   ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+  ![Terraform](https://img.shields.io/badge/terraform-333333?style=flat&logo=terraform)
 - 🎓 &nbsp;
   ![Datacamp](https://img.shields.io/badge/Datacamp-333333?style=flat&logo=datacamp)
   ![Udacity](https://img.shields.io/badge/Udacity-grey?-333333?style=flat&logo=udacity)
