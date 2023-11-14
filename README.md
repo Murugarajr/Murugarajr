@@ -51,7 +51,7 @@
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
   ![Terraform](https://img.shields.io/badge/terraform-333333?style=flat&logo=terraform)
-  ![Jira](https://img.shields.io/badge/jira-333333?style=flat&logoColor=white)
+  ![Jira](https://img.shields.io/badge/jira-333333?style=flat&logo=jira)
   ![Confluence](https://img.shields.io/badge/confluence-333333?style=flat&logo=confluence)
 - 🎓 &nbsp;
   ![Datacamp](https://img.shields.io/badge/Datacamp-333333?style=flat&logo=datacamp)
