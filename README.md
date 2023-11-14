@@ -1,6 +1,6 @@
 <h1 align="center">Hey! Nice to see you</a></h1>
 
-<h3 align="center">I am Raj, a Data Engineer who specialises in designing, building, and maintaining distributed, high-performance data pipelines to support data solutions across BI and analytics use cases. </h3>
+<h3 align="center">I am Raj, a Data Engineer who specializes in designing, building, and maintaining distributed, high-performance data pipelines to support data solutions across BI and analytics use cases. </h3>
 
 <a target="_blank" align="center">
   <img align="right" src="https://github.com/Murugarajr/Murugarajr/blob/main/Right_Side.gif?raw=true?raw=true" width = 300px></picture>
@@ -77,8 +77,9 @@
  </div>
 
 </p>
-
+</details>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
 
 Credit: [Raj Rengaraj](https://github.com/Murugarajr)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
+
 Last Edited on: 09/11/2023
