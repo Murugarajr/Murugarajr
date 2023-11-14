@@ -79,7 +79,6 @@
 </p>
 
 
-Credit: [Raj Rengaraj](https://github.com/Murugarajr)
 <br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
 
