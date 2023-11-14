@@ -46,7 +46,10 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 📚 &nbsp;
-  ![Flask](https://img.shields.io/badge/flask--333333?style=flat&logo=flask)
+  ![Flask](https://img.shields.io/badge/flask-333333?style=flat&logo=flask)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=flat&logo=fastapi)
+  ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 - 🎓 &nbsp;
   ![Datacamp](https://img.shields.io/badge/Datacamp-333333?style=flat&logo=datacamp)
   ![Udacity](https://img.shields.io/badge/Udacity-grey?-333333?style=flat&logo=udacity)
