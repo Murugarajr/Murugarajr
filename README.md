@@ -29,7 +29,7 @@
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
-  ![Apache Airflow](https://img.shields.io/badge/Apache-333333?style=flat&logo=Apache%20Airflow)
+  ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-333333?style=flat&logo=Apache%20Airflow)
   ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-333333?style=flat&logo=kubernetes)
 - 📊 &nbsp;
