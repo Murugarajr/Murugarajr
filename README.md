@@ -39,7 +39,7 @@
   ![Power Bi](https://img.shields.io/badge/power_bi-333333?style=flat&logo=powerbi)
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
   ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
-- 🔧 &nbsp;
+- 👩‍💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/pycharm-333333?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-333333&style=flat&logo=jupyter)
