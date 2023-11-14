@@ -27,9 +27,9 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
+  ![Apache Airflow](https://img.shields.io/badge/Apache-333333?style=flat&logo=Apache%20Airflow)
   ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-333333?style=flat&logo=kubernetes)
 - 📊 &nbsp;
