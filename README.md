@@ -25,6 +25,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-333333?style=flat&logo=Google%20BigQuery)
   ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-333333?style=flat&logo=Amazon%20DynamoDB)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
