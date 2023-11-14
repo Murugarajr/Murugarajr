@@ -63,6 +63,7 @@
   ![Udemy](https://img.shields.io/badge/Udemy-333333?style=flat&logo=Udemy)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-333333?style=flat&logo=Kaggle)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -75,7 +76,6 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Murugarajr/"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="mailto:murugarajr@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a> 
  </div>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
 </p>
 
 
