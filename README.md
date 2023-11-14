@@ -38,7 +38,7 @@
 - 📊 &nbsp;
   ![Power Bi](https://img.shields.io/badge/power_bi-333333?style=flat&logo=powerbi)
   ![Plotly](https://img.shields.io/badge/Plotly-333333?style=flat&logo=plotly)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-333333?style=flat&logo=seaborn)
+  ![Folium](https://img.shields.io/badge/Folium-333333?style=flat&logo=folium)
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
   ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
 - 👩‍💻 &nbsp;
