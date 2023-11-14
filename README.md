@@ -33,6 +33,7 @@
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333333?style=flat&logo=Apache%20Spark)
   ![Databricks](https://img.shields.io/badge/Databricks-333333?style=flat&logo=Databricks)
   ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka--333333?style=flat&logo=apachekafka)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-333333?style=flat&logo=kubernetes)
 - 📊 &nbsp;
   ![Power Bi](https://img.shields.io/badge/power_bi-333333?style=flat&logo=powerbi)
