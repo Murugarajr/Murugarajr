@@ -31,6 +31,7 @@
   ![Gitlab](https://img.shields.io/badge/GitLab-333333?style=flat&logo=gitlab)
   ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-333333?style=flat&logo=Apache%20Airflow)
   ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333333?style=flat&logo=Apache%20Spark)
+  ![Apache Beam](https://img.shields.io/badge/Apache%20Beam-333333?style=flat&logo=Apache%20Beam)
   ![Docker](https://img.shields.io/badge/docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-333333?style=flat&logo=kubernetes)
 - 📊 &nbsp;
