@@ -75,10 +75,9 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Murugarajr/"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	<a style="margin-left: 10px;" target="_blank" href="mailto:murugarajr@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a> 
  </div>
-
-</p>
-</details>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
+</p>
+
 
 Credit: [Raj Rengaraj](https://github.com/Murugarajr)
 
