@@ -96,6 +96,11 @@
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-333333?style=flat&logo=Kaggle)
 
+<h3> 🏆 &nbsp;Achievements &amp; Projects</h3>
+
+- 🛠 &nbsp;**[OHM-MCP](https://www.ohm-mcp.dev/)** - AST-first refactoring MCP server for Python codebases. It analyses code, designs refactors, applies them with backups, runs tests and auto-rolls back on failure, all locally from your IDE (GitHub Copilot, Cursor, Cline or any MCP-compatible host).
+- 🏆 &nbsp;**Winner, [Nosana Builders Challenge: ElizaOS](https://superteam.fun/earn/listing/nosana-builders-elizaos-challenge)** - built and deployed a personal AI agent with ElizaOS on Nosana's decentralised GPU network (Superteam Earn, 2026).
+
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
