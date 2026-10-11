@@ -42,6 +42,38 @@
   ![Folium](https://img.shields.io/badge/Folium-333333?style=flat&logo=folium)
   ![Tableau](https://img.shields.io/badge/Tableau-333333?style=flat&logo=Tableau)
   ![Kibana](https://img.shields.io/badge/Kibana-333333?style=flat&logo=Kibana)
+- 🤖 &nbsp;
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-333333?style=flat&logo=scikitlearn)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-333333?style=flat&logo=tensorflow)
+  ![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-333333?style=flat&logo=huggingface)
+  ![MLflow](https://img.shields.io/badge/MLflow-333333?style=flat&logo=mlflow)
+- 🧠 &nbsp;
+  ![Generative AI](https://img.shields.io/badge/Generative%20AI-333333?style=flat&logo=openai)
+  ![LLMs](https://img.shields.io/badge/LLMs-333333?style=flat&logo=openai)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-333333?style=flat&logo=openai)
+  ![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-333333?style=flat&logo=anthropic)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-333333?style=flat&logo=googlegemini)
+  ![LangChain](https://img.shields.io/badge/LangChain-333333?style=flat&logo=langchain)
+  ![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat&logo=ollama)
+  ![RAG](https://img.shields.io/badge/RAG-333333?style=flat&logo=databricks)
+  ![Vector Search](https://img.shields.io/badge/Vector%20Search-333333?style=flat&logo=postgresql)
+  ![AI Agents](https://img.shields.io/badge/AI%20Agents-333333?style=flat&logo=githubcopilot)
+- 🚀 &nbsp;
+  ![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-333333?style=flat&logo=amazon-aws)
+  ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-333333?style=flat&logo=amazon-aws)
+  ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-333333?style=flat&logo=google-cloud)
+  ![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-333333?style=flat&logo=microsoft-azure)
+  ![Databricks ML](https://img.shields.io/badge/Databricks%20ML-333333?style=flat&logo=databricks)
+- 🛡 &nbsp;
+  ![Data Governance](https://img.shields.io/badge/Data%20Governance-333333?style=flat&logo=databricks)
+  ![AI Governance](https://img.shields.io/badge/AI%20Governance-333333?style=flat&logo=openai)
+  ![Data Quality](https://img.shields.io/badge/Data%20Quality-333333?style=flat&logo=greatexpectations)
+  ![Data Lineage](https://img.shields.io/badge/Data%20Lineage-333333?style=flat&logo=apacheairflow)
+  ![Responsible AI](https://img.shields.io/badge/Responsible%20AI-333333?style=flat&logo=microsoft-azure)
+  ![GDPR Compliance](https://img.shields.io/badge/GDPR%20Compliance-333333?style=flat&logo=gnuprivacyguard)
 - 👩‍💻 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/pycharm-333333?style=flat&logo=pycharm&labelColor=green)
@@ -63,7 +95,7 @@
   ![Udemy](https://img.shields.io/badge/Udemy-333333?style=flat&logo=Udemy)
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)
   ![Kaggle](https://img.shields.io/badge/Kaggle-333333?style=flat&logo=Kaggle)
- 
+
 <br/>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
@@ -74,9 +106,8 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/murugarajr/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/Murugarajr/"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a style="margin-left: 10px;" target="_blank" href="mailto:murugarajr@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a> 
+<a style="margin-left: 10px;" target="_blank" href="mailto:murugarajr@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/40/000000/gmail--v2.png"></a> 
  </div>
 </p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Murugarajr.Murugarajr)
-
